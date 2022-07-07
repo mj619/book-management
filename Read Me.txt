@@ -1,0 +1,16 @@
+username:mayur
+password:MJ6195
+
+
+How to Run:
+ open in CMD and use code "python manage.py runserver" and copylink then paste in the browser " http://127.0.0.1:8000/"
+
+Use username and password to login 
+
+Then click in the admin
+
+  
+
+
+	
+	
